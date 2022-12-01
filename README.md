@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-derrick
+# alx-system_engineering-devops derrick
